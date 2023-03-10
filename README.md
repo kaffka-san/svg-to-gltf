@@ -1,7 +1,7 @@
 # Blender 3D Icon Creator Script
 
 This script allows you to create 3D icons from SVG files with depth and bevel, UV mapping, and the origin at the center. It then exports the icon as a GLTF file.
-
+This script was created with the help of Chat GPT, a large language model trained by OpenAI.
 ## Requirements
 Blender version 2.8 or higher
 Python 3.7 or higher
