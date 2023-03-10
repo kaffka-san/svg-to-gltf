@@ -41,5 +41,5 @@ origin in the center of the geometry,
 paced it in the cenetr, 
 apllied all transform and then export them as GLTF files to the output directory.
 
-##License
+## License
 This script is licensed under the MIT License. See the LICENSE file for details.
