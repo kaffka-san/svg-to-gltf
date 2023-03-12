@@ -9,7 +9,7 @@ Python 3.7 or higher
 ## Installation
 To install an add-on in Blender, follow these steps:
 
-1. Download the add-on as a .zip file or .py file from a reliable source.
+1. Download the add-on as a .zip file or .py file from a GitHub.
 2. Open Blender and go to "Edit" > "Preferences".
 3.  In the Preferences window, select the "Add-ons" tab.
 4. Click on the "Install" button at the top right corner of the window.
@@ -38,7 +38,7 @@ The script will automatically
 import the SVG files from the input directory 
 create 3d mesh with the bevel, uv map, 
 origin in the center of the geometry, 
-paced it in the cenetr, 
+paced it in the center, 
 apllied all transform and then export them as GLTF files to the output directory.
 
 ## License
