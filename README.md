@@ -41,5 +41,10 @@ origin in the center of the geometry,
 paced it in the center, 
 apllied all transform and then export them as GLTF files to the output directory.
 
+## YouTube tutorial 
+Short  video   witch explains  how to install and use plug-in [ YouTube link](https://youtu.be/Ulq4zR8as2Q)
+
+
+
 ## License
 This script is licensed under the MIT License. See the LICENSE file for details.
